@@ -1,0 +1,30 @@
+# Ignore Vivado generated files
+.DS_Store
+*_xil/
+*.jou
+*.log
+*.pb
+*.wdb
+*.bak
+*.cache/
+*.hw/
+*.hdf
+*.runs/
+*.data/
+*.xml
+*.html
+*.xsl
+*.sws
+
+# Ignore Vivado project settings files
+*.cache
+*.runs
+*.sdk
+*.hdf
+*.gen
+
+# Ignore Vivado file backups
+*~
+*#
+
+project/NES_KR260
